@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB;SPYDER
+message: Lenguaje m;pythoon
+type: software
+authors:
+  - given-names: M.Fernanda
+    family-names: Almazan Pacheco
+    affiliation: TecNM-ITT
+    email: L22211744@tectijuana.edu.mx
+keywords:
+  - Circuito RLC
+  - ' Controlador PID'
+  - Sistema Respiratorio
+  - Modelo matematico
+  - Simulaciones numericas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-09-19'
